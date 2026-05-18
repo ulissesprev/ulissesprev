@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ulisses-silva-27245831/" target="_blank">
+  <a href="https://www.linkedin.com/in/eai-ulisses/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ulisses%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ulissesprev" target="_blank">
@@ -71,8 +71,8 @@ Atualmente, estudo e desenvolvo soluções utilizando principalmente Angular, .N
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ulisses-silva-27245831/" target="_blank">
-    https://www.linkedin.com/in/ulisses-silva-27245831/
+  <a href="https://www.linkedin.com/in/eai-ulisses/" target="_blank">
+    https://www.linkedin.com/in/eai-ulisses/
   </a>
 </p>
 
